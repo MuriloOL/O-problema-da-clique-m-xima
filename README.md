@@ -15,3 +15,6 @@ Compilar o código, substituir na pasta clique e realizar o procedimento 1
 
 3- A pasta resultado do artigo apresenta o resultado das execução para cada instância.
 
+OBS: não foi possível colocar todas instância devido o tamanho do arquivo, caso queira encontrar todas ir ao site http://archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/clique/
+
+
